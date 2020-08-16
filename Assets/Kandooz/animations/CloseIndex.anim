@@ -1,0 +1,3516 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: CloseIndex
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.7069847, y: 0, z: 0, w: 0.70722884}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: -0.7069847, y: 0, z: 0, w: 0.70722884}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.017555699, y: 0.000057209167, z: -0.04737575, w: 0.99872285}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: -0.00000059870735, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: 0.017555699, y: 0.000057209167, z: -0.04737575, w: 0.99872285}
+        inSlope: {x: 0, y: -0.00000059870735, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.039330468, y: -0.110565975, z: 0.12708025, w: 0.9849258}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0.38784742, y: 0.013589859, z: -0.14305115, w: 0.035762787}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: {x: -0.023153301, y: -0.10994375, z: 0.121085264, w: 0.98626304}
+        inSlope: {x: 0.70255995, y: 0.024676323, z: -0.2603531, w: 0.051498413}
+        outSlope: {x: 0.7041991, y: 0.024616718, z: -0.2605319, w: 0.051021576}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: 0.0778111, y: -0.10532175, z: 0.08290769, w: 0.9879166}
+        inSlope: {x: -0.00590086, y: 0.015676022, z: -0.04196167, w: 0.006198883}
+        outSlope: {x: -0.009119512, y: 0.015735628, z: -0.041306023, w: 0.0050067906}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: {x: 0.025054436, y: -0.1037395, z: 0.09141499, w: 0.9900777}
+        inSlope: {x: -0.6343425, y: 0.017791988, z: 0.10102988, w: 0.0092983255}
+        outSlope: {x: -0.63326925, y: 0.018060198, z: 0.1006722, w: 0.005722043}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: 0.00823724, y: -0.10317322, z: 0.09406949, w: 0.99017096}
+        inSlope: {x: -0.40322524, y: 0.0135898525, z: 0.06347892, w: 0.0014305108}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.03599553, y: 0.012921786, z: -0.27521867, w: 0.96062064}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: 0.03599553, y: 0.012921786, z: -0.27521867, w: 0.96062064}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.11992763, y: -0.02012879, z: 0.17189625, w: 0.97758067}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -1.6567111, y: -0.18002093, z: 0.03540516, w: -0.21457672}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: {x: -0.18867101, y: -0.027338713, z: 0.17248344, w: 0.96638775}
+        inSlope: {x: -3.2669306, y: -0.37756562, z: 0.061511993, w: -0.6594658}
+        outSlope: {x: -3.272295, y: -0.37792325, z: 0.06186962, w: -0.6594658}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: {x: -0.38786405, y: -0.048009574, z: 0.16918588, w: 0.90478325}
+        inSlope: {x: -5.065441, y: -0.80144405, z: 0.120162964, w: -2.2358894}
+        outSlope: {x: -5.066872, y: -0.8000136, z: 0.11909009, w: -2.2373202}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: {x: -0.60425353, y: -0.07001433, z: 0.15540507, w: 0.7783476}
+        inSlope: {x: -3.9210322, y: -1.0464193, z: 0.29826167, w: -3.1957629}
+        outSlope: {x: -3.91674, y: -1.0471343, z: 0.300765, w: -3.1957622}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: -0.7186238, y: -0.081374645, z: 0.14201078, w: 0.6758631}
+        inSlope: {x: -1.7595289, y: -0.39267534, z: -0.055074684, w: -1.9068716}
+        outSlope: {x: -1.7580984, y: -0.3933906, z: -0.055074684, w: -1.9040105}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: {x: -0.76533496, y: -0.08593464, z: 0.13473596, w: 0.6234772}
+        inSlope: {x: -0.7324218, y: -0.10943411, z: -0.088691704, w: -0.89550006}
+        outSlope: {x: -0.7324218, y: -0.11122225, z: -0.09030103, w: -0.89406955}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: -0.7847806, y: -0.087815, z: 0.13130227, w: 0.5993059}
+        inSlope: {x: -0.04649162, y: -0.003933906, z: -0.0067949286, w: -0.06079673}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.18164423, y: -0.0025643858, z: -0.018461894, w: 0.9831876}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -1.5120506, y: 0.029157847, z: -0.005364418, w: -0.27751923}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: {x: -0.24431701, y: -0.0013752417, z: -0.018588334, w: 0.9695163}
+        inSlope: {x: -2.9400587, y: 0.06098114, z: -0.0109523535, w: -0.73957443}
+        outSlope: {x: -2.9457808, y: 0.061014667, z: -0.01077354, w: -0.74243546}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: {x: -0.42253646, y: 0.0021501584, z: -0.018514697, w: 0.9061542}
+        inSlope: {x: -4.4846535, y: 0.13232231, z: -0.03312528, w: -2.0928383}
+        outSlope: {x: -4.4832234, y: 0.13113768, z: -0.031828884, w: -2.091408}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: {x: -0.6147634, y: 0.006242506, z: -0.017562684, w: 0.78849137}
+        inSlope: {x: -3.4461024, y: 0.47260526, z: -0.3703237, w: -2.6979449}
+        outSlope: {x: -3.4461017, y: 0.48038357, z: -0.3781914, w: -2.699375}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: -0.7184581, y: 0.008624911, z: -0.016524255, w: 0.69532037}
+        inSlope: {x: -1.4033316, y: 0.70738786, z: -0.66733354, w: -1.4762877}
+        outSlope: {x: -1.4076232, y: 0.7181167, z: -0.65731996, w: -1.4777182}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: {x: -0.7618004, y: 0.009672232, z: -0.01593306, w: 0.6475436}
+        inSlope: {x: -0.69808954, y: 0.0423789, z: -0.013589857, w: -0.822544}
+        outSlope: {x: -0.6973743, y: 0.042200085, z: -0.013321636, w: -0.82111347}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: -0.7800848, y: 0.010125857, z: -0.015648719, w: 0.62539613}
+        inSlope: {x: -0.045776363, y: 0.0025480983, z: 0.0016093252, w: -0.05722045}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.22251111, y: 0.0039119064, z: -0.0077623893, w: 0.97489136}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -1.3085604, y: 0.010762364, z: 0.004693866, w: -0.2975464}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: {x: -0.27671066, y: 0.0043400996, z: -0.007531343, w: 0.960914}
+        inSlope: {x: -2.5119781, y: 0.021614134, z: 0.008717179, w: -0.7224083}
+        outSlope: {x: -2.5162697, y: 0.02162531, z: 0.008773059, w: -0.7252693}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: {x: -0.4284776, y: 0.005501005, z: -0.0067302603, w: 0.90351063}
+        inSlope: {x: -3.8187504, y: 0.04287064, z: 0.007867813, w: -1.809597}
+        outSlope: {x: -3.8187506, y: 0.042591248, z: 0.008091331, w: -1.8138887}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: {x: -0.59274346, y: 0.0066823233, z: -0.0055591185, w: 0.8053444}
+        inSlope: {x: -2.9897692, y: 0.095307834, z: -0.050336126, w: -2.2015574}
+        outSlope: {x: -2.9869077, y: 0.08842348, z: -0.04327297, w: -2.198696}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: -0.6845574, y: 0.0072974563, z: -0.004722342, w: 0.72890717}
+        inSlope: {x: -1.6579626, y: 1.3736485, z: -1.3550519, w: -1.580715}
+        outSlope: {x: -1.6622541, y: 1.3720392, z: -1.3470052, w: -1.583576}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: {x: -0.72429794, y: 0.0075503066, z: -0.0043062717, w: 0.6894325}
+        inSlope: {x: -0.63943857, y: 0.070989124, z: -0.06276368, w: -0.6680488}
+        outSlope: {x: -0.63657755, y: 0.0732243, z: -0.06312131, w: -0.6709098}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: -0.741399, y: 0.007656306, z: -0.004115261, w: 0.6710081}
+        inSlope: {x: -0.04148483, y: 0.00017881392, z: -0.00017881392, w: -0.04649162}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.00011116032, y: 0.000021471433, z: -0.00000782898}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: {x: -0.00011116032, y: 0.000021471433, z: -0.00000782898}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 7.1395333e-12, y: 0.0013537286, z: 2.5465851e-12}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: {x: 7.1395333e-12, y: 0.0013537286, z: 2.5465851e-12}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -1.36788e-11, y: 0.0002736181, z: 4.6566128e-12}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: {x: -1.36788e-11, y: 0.0002736181, z: 4.6566128e-12}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.8626451e-11, y: 0.00074414536, z: 1.8626451e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: {x: 1.8626451e-11, y: 0.00074414536, z: 1.8626451e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 4.6566126e-11, y: 0.00052981527, z: -1.8335413e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: {x: 4.6566126e-11, y: 0.00052981527, z: -1.8335413e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -5.122274e-11, y: 0.000308591, z: 1.6763806e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: {x: -5.122274e-11, y: 0.000308591, z: 1.6763806e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 100, y: 100, z: 100}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: 100, y: 100, z: 100}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.9999999, y: 0.99999994, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: 0.9999999, y: 0.99999994, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: 0.99999994, y: 1, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1.0000001, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: 1, y: 1.0000001, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.9999997, y: 0.9999999, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: 0.9999997, y: 0.9999999, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 0.9999997, z: 0.9999996}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: 1, y: 0.9999997, z: 0.9999996}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 0.9999999, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: {x: 1, y: 0.9999999, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: blendShape.fist
+    path: vr_male_hand
+    classID: 137
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 1132775047
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 264543578
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2661085639
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3592577938
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4161922976
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1623313772
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1132775047
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3028225816
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 264543578
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2661085639
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3592577938
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4161922976
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1623313772
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3028225816
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4161922976
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1623313772
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1132775047
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3028225816
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 264543578
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2661085639
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3592577938
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1205104555
+      attribute: 729094268
+      script: {fileID: 0}
+      typeID: 137
+      customType: 20
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.2916667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: vr_hand_male_armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: vr_hand_male_armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: vr_hand_male_armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.7069847
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.7069847
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: vr_hand_male_armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: vr_hand_male_armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: vr_hand_male_armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.70722884
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.70722884
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: vr_hand_male_armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: vr_hand_male_armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: vr_hand_male_armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: vr_hand_male_armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.00011116032
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: -0.00011116032
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: vr_hand_male_armature/forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.000021471433
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 0.000021471433
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: vr_hand_male_armature/forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.00000782898
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: -0.00000782898
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: vr_hand_male_armature/forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.017555699
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.017555699
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: vr_hand_male_armature/forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.000057209167
+        inSlope: 0
+        outSlope: -0.00000059870735
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.000057209167
+        inSlope: -0.00000059870735
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: vr_hand_male_armature/forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.04737575
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.04737575
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: vr_hand_male_armature/forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.99872285
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.99872285
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: vr_hand_male_armature/forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9999999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.9999999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: vr_hand_male_armature/forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.99999994
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.99999994
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: vr_hand_male_armature/forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9999998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.9999998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: vr_hand_male_armature/forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 7.1395333e-12
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 7.1395333e-12
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: vr_hand_male_armature/forearm/hand_joint
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0013537286
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 0.0013537286
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: vr_hand_male_armature/forearm/hand_joint
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.5465851e-12
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 2.5465851e-12
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: vr_hand_male_armature/forearm/hand_joint
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.039330468
+        inSlope: 0
+        outSlope: 0.38784742
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -0.023153301
+        inSlope: 0.70255995
+        outSlope: 0.7041991
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.0778111
+        inSlope: -0.00590086
+        outSlope: -0.009119512
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: 0.025054436
+        inSlope: -0.6343425
+        outSlope: -0.63326925
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.00823724
+        inSlope: -0.40322524
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: vr_hand_male_armature/forearm/hand_joint
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.110565975
+        inSlope: 0
+        outSlope: 0.013589859
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -0.10994375
+        inSlope: 0.024676323
+        outSlope: 0.024616718
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.10532175
+        inSlope: 0.015676022
+        outSlope: 0.015735628
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: -0.1037395
+        inSlope: 0.017791988
+        outSlope: 0.018060198
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.10317322
+        inSlope: 0.0135898525
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: vr_hand_male_armature/forearm/hand_joint
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.12708025
+        inSlope: 0
+        outSlope: -0.14305115
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: 0.121085264
+        inSlope: -0.2603531
+        outSlope: -0.2605319
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.08290769
+        inSlope: -0.04196167
+        outSlope: -0.041306023
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: 0.09141499
+        inSlope: 0.10102988
+        outSlope: 0.1006722
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.09406949
+        inSlope: 0.06347892
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: vr_hand_male_armature/forearm/hand_joint
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9849258
+        inSlope: 0
+        outSlope: 0.035762787
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: 0.98626304
+        inSlope: 0.051498413
+        outSlope: 0.051021576
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.9879166
+        inSlope: 0.006198883
+        outSlope: 0.0050067906
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: 0.9900777
+        inSlope: 0.0092983255
+        outSlope: 0.005722043
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.99017096
+        inSlope: 0.0014305108
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: vr_hand_male_armature/forearm/hand_joint
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.99999994
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.99999994
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: vr_hand_male_armature/forearm/hand_joint
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: vr_hand_male_armature/forearm/hand_joint
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9999999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.9999999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: vr_hand_male_armature/forearm/hand_joint
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.36788e-11
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: -1.36788e-11
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0002736181
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 0.0002736181
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 4.6566128e-12
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 4.6566128e-12
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.03599553
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.03599553
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.012921786
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.012921786
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.27521867
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.27521867
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.96062064
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.96062064
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.0000001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 1.0000001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.0000001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 1.0000001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.8626451e-11
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 1.8626451e-11
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.00074414536
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 0.00074414536
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.8626451e-11
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 1.8626451e-11
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.11992763
+        inSlope: 0
+        outSlope: -1.6567111
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -0.18867101
+        inSlope: -3.2669306
+        outSlope: -3.272295
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: -0.38786405
+        inSlope: -5.065441
+        outSlope: -5.066872
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -0.60425353
+        inSlope: -3.9210322
+        outSlope: -3.91674
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.7186238
+        inSlope: -1.7595289
+        outSlope: -1.7580984
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: -0.76533496
+        inSlope: -0.7324218
+        outSlope: -0.7324218
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.7847806
+        inSlope: -0.04649162
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.02012879
+        inSlope: 0
+        outSlope: -0.18002093
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -0.027338713
+        inSlope: -0.37756562
+        outSlope: -0.37792325
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: -0.048009574
+        inSlope: -0.80144405
+        outSlope: -0.8000136
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -0.07001433
+        inSlope: -1.0464193
+        outSlope: -1.0471343
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.081374645
+        inSlope: -0.39267534
+        outSlope: -0.3933906
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: -0.08593464
+        inSlope: -0.10943411
+        outSlope: -0.11122225
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.087815
+        inSlope: -0.003933906
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.17189625
+        inSlope: 0
+        outSlope: 0.03540516
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: 0.17248344
+        inSlope: 0.061511993
+        outSlope: 0.06186962
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: 0.16918588
+        inSlope: 0.120162964
+        outSlope: 0.11909009
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: 0.15540507
+        inSlope: 0.29826167
+        outSlope: 0.300765
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.14201078
+        inSlope: -0.055074684
+        outSlope: -0.055074684
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: 0.13473596
+        inSlope: -0.088691704
+        outSlope: -0.09030103
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.13130227
+        inSlope: -0.0067949286
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.97758067
+        inSlope: 0
+        outSlope: -0.21457672
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: 0.96638775
+        inSlope: -0.6594658
+        outSlope: -0.6594658
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: 0.90478325
+        inSlope: -2.2358894
+        outSlope: -2.2373202
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: 0.7783476
+        inSlope: -3.1957629
+        outSlope: -3.1957622
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.6758631
+        inSlope: -1.9068716
+        outSlope: -1.9040105
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: 0.6234772
+        inSlope: -0.89550006
+        outSlope: -0.89406955
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.5993059
+        inSlope: -0.06079673
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9999997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.9999997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9999999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.9999999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.99999994
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.99999994
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 4.6566126e-11
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 4.6566126e-11
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.00052981527
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 0.00052981527
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.8335413e-11
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: -1.8335413e-11
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.18164423
+        inSlope: 0
+        outSlope: -1.5120506
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -0.24431701
+        inSlope: -2.9400587
+        outSlope: -2.9457808
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: -0.42253646
+        inSlope: -4.4846535
+        outSlope: -4.4832234
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -0.6147634
+        inSlope: -3.4461024
+        outSlope: -3.4461017
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.7184581
+        inSlope: -1.4033316
+        outSlope: -1.4076232
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: -0.7618004
+        inSlope: -0.69808954
+        outSlope: -0.6973743
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.7800848
+        inSlope: -0.045776363
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0025643858
+        inSlope: 0
+        outSlope: 0.029157847
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -0.0013752417
+        inSlope: 0.06098114
+        outSlope: 0.061014667
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: 0.0021501584
+        inSlope: 0.13232231
+        outSlope: 0.13113768
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: 0.006242506
+        inSlope: 0.47260526
+        outSlope: 0.48038357
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.008624911
+        inSlope: 0.70738786
+        outSlope: 0.7181167
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: 0.009672232
+        inSlope: 0.0423789
+        outSlope: 0.042200085
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.010125857
+        inSlope: 0.0025480983
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.018461894
+        inSlope: 0
+        outSlope: -0.005364418
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -0.018588334
+        inSlope: -0.0109523535
+        outSlope: -0.01077354
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: -0.018514697
+        inSlope: -0.03312528
+        outSlope: -0.031828884
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -0.017562684
+        inSlope: -0.3703237
+        outSlope: -0.3781914
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.016524255
+        inSlope: -0.66733354
+        outSlope: -0.65731996
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: -0.01593306
+        inSlope: -0.013589857
+        outSlope: -0.013321636
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.015648719
+        inSlope: 0.0016093252
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9831876
+        inSlope: 0
+        outSlope: -0.27751923
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: 0.9695163
+        inSlope: -0.73957443
+        outSlope: -0.74243546
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: 0.9061542
+        inSlope: -2.0928383
+        outSlope: -2.091408
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: 0.78849137
+        inSlope: -2.6979449
+        outSlope: -2.699375
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.69532037
+        inSlope: -1.4762877
+        outSlope: -1.4777182
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: 0.6475436
+        inSlope: -0.822544
+        outSlope: -0.82111347
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.62539613
+        inSlope: -0.05722045
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9999997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.9999997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9999996
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.9999996
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -5.122274e-11
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: -5.122274e-11
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.000308591
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 0.000308591
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.6763806e-10
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.29166666
+        value: 1.6763806e-10
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.22251111
+        inSlope: 0
+        outSlope: -1.3085604
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -0.27671066
+        inSlope: -2.5119781
+        outSlope: -2.5162697
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: -0.4284776
+        inSlope: -3.8187504
+        outSlope: -3.8187506
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -0.59274346
+        inSlope: -2.9897692
+        outSlope: -2.9869077
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.6845574
+        inSlope: -1.6579626
+        outSlope: -1.6622541
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: -0.72429794
+        inSlope: -0.63943857
+        outSlope: -0.63657755
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.741399
+        inSlope: -0.04148483
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0039119064
+        inSlope: 0
+        outSlope: 0.010762364
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: 0.0043400996
+        inSlope: 0.021614134
+        outSlope: 0.02162531
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: 0.005501005
+        inSlope: 0.04287064
+        outSlope: 0.042591248
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: 0.0066823233
+        inSlope: 0.095307834
+        outSlope: 0.08842348
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.0072974563
+        inSlope: 1.3736485
+        outSlope: 1.3720392
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: 0.0075503066
+        inSlope: 0.070989124
+        outSlope: 0.0732243
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.007656306
+        inSlope: 0.00017881392
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0077623893
+        inSlope: 0
+        outSlope: 0.004693866
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -0.007531343
+        inSlope: 0.008717179
+        outSlope: 0.008773059
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: -0.0067302603
+        inSlope: 0.007867813
+        outSlope: 0.008091331
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -0.0055591185
+        inSlope: -0.050336126
+        outSlope: -0.04327297
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.004722342
+        inSlope: -1.3550519
+        outSlope: -1.3470052
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: -0.0043062717
+        inSlope: -0.06276368
+        outSlope: -0.06312131
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.004115261
+        inSlope: -0.00017881392
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.97489136
+        inSlope: 0
+        outSlope: -0.2975464
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: 0.960914
+        inSlope: -0.7224083
+        outSlope: -0.7252693
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: 0.90351063
+        inSlope: -1.809597
+        outSlope: -1.8138887
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: 0.8053444
+        inSlope: -2.2015574
+        outSlope: -2.198696
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.72890717
+        inSlope: -1.580715
+        outSlope: -1.583576
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: 0.6894325
+        inSlope: -0.6680488
+        outSlope: -0.6709098
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.6710081
+        inSlope: -0.04649162
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9999999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.9999999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.99999994
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.99999994
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: blendShape.fist
+    path: vr_male_hand
+    classID: 137
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -89.98021
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -89.98021
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: vr_hand_male_armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: vr_hand_male_armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: vr_hand_male_armature
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.0098882
+        inSlope: -0.0000049046103
+        outSlope: -0.0000049046103
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 2.0098882
+        inSlope: -0.0000049046103
+        outSlope: -0.0000049046103
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: vr_hand_male_armature/forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.088814795
+        inSlope: -0.00006805147
+        outSlope: -0.00006805147
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.088814795
+        inSlope: -0.00006805147
+        outSlope: -0.00006805147
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: vr_hand_male_armature/forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -5.433289
+        inSlope: 0.0000049046103
+        outSlope: 0.0000049046103
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -5.433289
+        inSlope: 0.0000049046103
+        outSlope: 0.0000049046103
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: vr_hand_male_armature/forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -2.830054
+        inSlope: 41.689182
+        outSlope: 41.689182
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -1.0912843
+        inSlope: 75.7303
+        outSlope: 75.7303
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 9.857926
+        inSlope: -1.4824448
+        outSlope: -1.4824448
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: 3.9323368
+        inSlope: -71.02586
+        outSlope: -71.02586
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 2.0472383
+        inSlope: -45.223892
+        outSlope: -45.223892
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: vr_hand_male_armature/forearm/hand_joint
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -13.183645
+        inSlope: 8.06987
+        outSlope: 8.06987
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -12.856751
+        inSlope: 13.238594
+        outSlope: 13.238594
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -11.427107
+        inSlope: 1.3479767
+        outSlope: 1.3479767
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: -11.613781
+        inSlope: -3.5069735
+        outSlope: -3.5069735
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -11.706476
+        inSlope: -2.483321
+        outSlope: -2.483321
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: vr_hand_male_armature/forearm/hand_joint
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 15.031067
+        inSlope: -21.916626
+        outSlope: -21.916626
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: 14.121514
+        inSlope: -39.16468
+        outSlope: -39.16468
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 8.605518
+        inSlope: -4.567108
+        outSlope: -4.567108
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: 10.150389
+        inSlope: 18.604319
+        outSlope: 18.604319
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 10.644102
+        inSlope: 11.888437
+        outSlope: 11.888437
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: vr_hand_male_armature/forearm/hand_joint
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 4.374124
+        inSlope: 0.00006375994
+        outSlope: 0.00006375994
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 4.374124
+        inSlope: 0.00006375994
+        outSlope: 0.00006375994
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.28804
+        inSlope: 0.0000015326908
+        outSlope: 0.0000015326908
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.28804
+        inSlope: 0.0000015326908
+        outSlope: 0.0000015326908
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -31.963108
+        inSlope: 0.000039236882
+        outSlope: 0.000039236882
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -31.963108
+        inSlope: 0.000039236882
+        outSlope: 0.000039236882
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -13.153326
+        inSlope: -184.01509
+        outSlope: -184.01509
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -20.8074
+        inSlope: -363.88174
+        outSlope: -363.88174
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: -43.28444
+        inSlope: -562.4857
+        outSlope: -562.4857
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -66.7625
+        inSlope: -271.3843
+        outSlope: -271.3843
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -71.490395
+        inSlope: 83.963005
+        outSlope: 83.963005
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: -68.61964
+        inSlope: 74.04125
+        outSlope: 74.04125
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -66.57579
+        inSlope: 5.518432
+        outSlope: 5.518432
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -4.7470207
+        inSlope: -58.026764
+        outSlope: -58.026764
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -7.2473187
+        inSlope: -131.63237
+        outSlope: -131.63237
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: -17.435413
+        inSlope: -417.42526
+        outSlope: -417.42526
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -48.786503
+        inSlope: -1331.5471
+        outSlope: -1331.5471
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -98.34671
+        inSlope: -908.54065
+        outSlope: -908.54065
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: -120.72238
+        inSlope: -304.63986
+        outSlope: -304.63986
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -128.44707
+        inSlope: -17.329832
+        outSlope: -17.329832
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 20.493296
+        inSlope: 22.769577
+        outSlope: 22.769577
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: 21.571815
+        inSlope: 68.75189
+        outSlope: 68.75189
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: 28.146238
+        inSlope: 334.28223
+        outSlope: 334.28223
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: 55.854813
+        inSlope: 1266.1052
+        outSlope: 1266.1052
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 103.326324
+        inSlope: 872.2814
+        outSlope: 872.2814
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: 124.747345
+        inSlope: 288.5427
+        outSlope: 288.5427
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 132.04628
+        inSlope: 16.274595
+        outSlope: 16.274595
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -20.93296
+        inSlope: -176.32123
+        outSlope: -176.32123
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -28.280577
+        inSlope: -347.5713
+        outSlope: -347.5713
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: -49.968124
+        inSlope: -565.75854
+        outSlope: -565.75854
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -75.75488
+        inSlope: -487.51395
+        outSlope: -487.51395
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -87.23069
+        inSlope: 240.76096
+        outSlope: 240.76096
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: -80.501434
+        inSlope: 121.60655
+        outSlope: 121.60655
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -77.26683
+        inSlope: 8.042541
+        outSlope: 8.042541
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.10210488
+        inSlope: 7.2789416
+        outSlope: 7.2789416
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: 0.41745585
+        inSlope: 16.660341
+        outSlope: 16.660341
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: 1.7411085
+        inSlope: 58.351364
+        outSlope: 58.351364
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: 7.340201
+        inSlope: 549.90594
+        outSlope: 549.90594
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 132.29456
+        inSlope: 1996.9231
+        outSlope: 1996.9231
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: 167.114
+        inSlope: 137.04893
+        outSlope: 137.04893
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 170.31499
+        inSlope: 5.830993
+        outSlope: 5.830993
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -2.1703625
+        inSlope: -2.7456207
+        outSlope: -2.7456207
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -2.301941
+        inSlope: -8.512207
+        outSlope: -8.512207
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: -3.1523798
+        inSlope: -47.256195
+        outSlope: -47.256195
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -8.264602
+        inSlope: -541.02954
+        outSlope: -541.02954
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -132.93481
+        inSlope: -1991.9716
+        outSlope: -1991.9716
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: -167.62306
+        inSlope: -134.83739
+        outSlope: -134.83739
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -170.76527
+        inSlope: -5.6854243
+        outSlope: -5.6854243
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -25.70817
+        inSlope: -153.91777
+        outSlope: -153.91777
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -32.12207
+        inSlope: -299.7235
+        outSlope: -299.7235
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: -50.732014
+        inSlope: -483.9991
+        outSlope: -483.9991
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -72.67885
+        inSlope: -423.7438
+        outSlope: -423.7438
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -86.2761
+        inSlope: -196.13889
+        outSlope: -196.13889
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: -87.01567
+        inSlope: 104.06358
+        outSlope: 104.06358
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -84.21466
+        inSlope: 7.049926
+        outSlope: 7.049926
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7047124
+        inSlope: 3.2596092
+        outSlope: 3.2596092
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: 0.84628695
+        inSlope: 7.403399
+        outSlope: 7.403399
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: 1.4220628
+        inSlope: 23.94217
+        outSlope: 23.94217
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: 3.3414497
+        inSlope: 121.23716
+        outSlope: 121.23716
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 15.268564
+        inSlope: 4340.5913
+        outSlope: 4340.5913
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: 161.34999
+        inSlope: 453.94733
+        outSlope: 453.94733
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 170.64983
+        inSlope: 11.4834585
+        outSlope: 11.4834585
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.0732026
+        inSlope: -1.4684258
+        outSlope: -1.4684258
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.041666668
+        value: -1.1417632
+        inSlope: -4.1653633
+        outSlope: -4.1653633
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.083333336
+        value: -1.527816
+        inSlope: -19.426077
+        outSlope: -19.426077
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -3.2493882
+        inSlope: -117.595566
+        outSlope: -117.595566
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -15.059796
+        inSlope: -4338.5625
+        outSlope: -4338.5625
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.20833334
+        value: -161.08705
+        inSlope: -453.03326
+        outSlope: -453.03326
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -170.36253
+        inSlope: -11.422484
+        outSlope: -11.422484
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: vr_hand_male_armature/forearm/hand_joint/index_bone/index_prox/index_inter/index_dist
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

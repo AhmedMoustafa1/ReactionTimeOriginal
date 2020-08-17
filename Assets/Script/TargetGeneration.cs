@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-
+using UnityEngine.Events;
 
 public enum ButtonType
 {
@@ -179,7 +179,7 @@ public class TargetGeneration : MonoBehaviour
         }
     }
     public HeightSetter heightSetter;
-
+    public UnityEvent pauseEvent;
     private void Awake()
     {
         instance = this;
@@ -640,7 +640,7 @@ public class TargetGeneration : MonoBehaviour
         time = 30;
         StartCoroutine(StartAfter(29, Resuming));
         WaitTime.gameObject.SetActive(true);
-
+        pauseEvent.Invoke();
         // ExerciseButton.instance.StopAllCoroutines();
         currentButton.GetComponent<ExerciseButton>().Active = false;
 

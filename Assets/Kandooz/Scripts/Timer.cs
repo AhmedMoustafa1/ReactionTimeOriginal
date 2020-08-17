@@ -5,6 +5,7 @@ using UnityEngine.Events;
 using UnityEngine.UI;
 
 using System;
+using System.Threading;
 
 public enum TimerType
 {
@@ -60,6 +61,7 @@ public class Timer : MonoBehaviour {
         //timeScoreCounter = 
         if (Instance == null) Instance = this;
         TimerTimerType = TimerType.Decrement;
+     
     }
 
     public void StopTimer()
@@ -150,5 +152,12 @@ public class Timer : MonoBehaviour {
         {
             TimerNotWorking();
         }
+    }
+
+
+    public void StartPauseTimer()
+    {
+        StartTimer(30, TimerType.Decrement);
+
     }
 }

@@ -38,7 +38,7 @@ public class SavedData : MonoBehaviour {
     public List<float> sortedReactionTime;
 
     public UnityEvent exEnd;
-
+    public IntField factor;
 
     public int MaxCounts
     {
@@ -345,7 +345,7 @@ public class SavedData : MonoBehaviour {
         {
             string buttonType = "";
             string soaDelay = "";
-            for (int i = 0; i < reactionTime.Count-1; i++)
+            for (int i = 0; i < reactionTime.Count-factor.Value; i++)
             {
                 buttonType = (TargetGeneration.Instance.type == ExerciseType.Counter16x6TimeCalculated) ? "" : ButtonType[i].ToString() + ";";
 

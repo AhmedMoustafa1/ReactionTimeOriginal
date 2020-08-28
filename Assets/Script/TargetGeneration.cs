@@ -1118,6 +1118,6 @@ public class TargetGeneration : MonoBehaviour
     public void setControlState(bool active)
     {
     //  locationSetter.enabled = active;
-        heightSetter.enabled = active;
+       // heightSetter.enabled = active;
     }
 }

@@ -180,8 +180,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7079b10e17829d43bda5142ee8124ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reds: 0
-  greens: 0
   buttonID: 0
   flash: {fileID: 2100000, guid: 3b5b638259d0d3045934ac1d5c5b17e8, type: 2}
   type: 0
@@ -189,4 +187,4 @@ MonoBehaviour:
   elapsedTime: 0
   index: 0
   ex4TimedIndex: 0
-  orange: {fileID: 2100000, guid: 2e843b9cf5fef6d46811121ed8405970, type: 2}
+  orange: {fileID: 2100000, guid: f3e515b63b0bf724d90acf04ab7e4752, type: 2}

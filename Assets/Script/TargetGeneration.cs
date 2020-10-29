@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using UnityEngine.Events;
+using Kandooz;
 
 public enum ButtonType
 {
@@ -180,6 +181,7 @@ public class TargetGeneration : MonoBehaviour
     }
     public HeightSetter heightSetter;
     public UnityEvent pauseEvent;
+    public BoolField isOneBlock;
     private void Awake()
     {
         instance = this;
@@ -814,7 +816,14 @@ public class TargetGeneration : MonoBehaviour
         switch (type)
         {
             case ExerciseType.Counter16x6:
-                currentExcerciseName = "Exercise 2: Assessment";
+                if (isOneBlock.Value)
+                {
+                    currentExcerciseName = "Exercise 2: 1 Block";
+                }
+                else
+                {
+                    currentExcerciseName = "Exercise 2: Assessment";
+                }
                 maxCounts = 16 * 6;
                 break;
 
@@ -824,7 +833,14 @@ public class TargetGeneration : MonoBehaviour
                 break;
 
             case ExerciseType.Counter16x8redGreen:
-                currentExcerciseName = "Exercise 3: Assessment";
+                if (isOneBlock.Value)
+                {
+                    currentExcerciseName = "Exercise 3: 1 Block";
+                }
+                else
+                {
+                    currentExcerciseName = "Exercise 3: Assessment";
+                }
                 maxCounts = 16 * 8/*16 * 6*/;
                 break;
 

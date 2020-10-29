@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
 using UnityEngine.Events;
+using Kandooz;
 
 public class SavedData : MonoBehaviour {
     public static SavedData instance;
@@ -39,7 +40,7 @@ public class SavedData : MonoBehaviour {
 
     public UnityEvent exEnd;
     public IntField factor;
-
+    public BoolField isOneBlock;
     public int MaxCounts
     {
         get
@@ -135,7 +136,15 @@ public class SavedData : MonoBehaviour {
             TargetGeneration.Instance.type == ExerciseType.Counter16x6TimeCalculated ||
             TargetGeneration.Instance.type == ExerciseType.Counter16x8Ex4Assessment)
         {
-            text = "Assesment";
+            if (isOneBlock.Value)
+            {
+                text = "1 Block";
+
+            }
+            else
+            {
+                text = "Assesment";
+            }
 
         }
 

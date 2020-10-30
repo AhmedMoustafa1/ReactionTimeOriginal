@@ -4,6 +4,7 @@ using UnityEngine;
 using System.Linq;
 using UnityEngine.Events;
 using Kandooz;
+using System.Diagnostics.Eventing.Reader;
 
 public class SavedData : MonoBehaviour {
     public static SavedData instance;
@@ -261,7 +262,16 @@ public class SavedData : MonoBehaviour {
                  TargetGeneration.Instance.type == ExerciseType.Counter16x8Ex4Assessment ||
                  TargetGeneration.Instance.type == ExerciseType.Counter16x6TimeCalculated)
         {
-            value = "Modality:  Assessment";
+            if (isOneBlock.Value)
+            {
+                value = "Modality:  1 Block";
+
+            }
+            else
+            {
+                value = "Modality:  Assessment";
+
+            }
         }
         else
         {
